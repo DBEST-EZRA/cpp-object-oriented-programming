@@ -1,0 +1,7 @@
+# ninja log v5
+6	938	7413505750525233	CMakeFiles/firstprogam.dir/main.cpp.obj	ef834e6a952ef57c
+1261	1546	7413496446353081	firstprogam.exe	3072d1e8d9820a68
+50	1350	7413507035785859	CMakeFiles/firstprogam.dir/Dog.cpp.obj	11dcba8e50fc64a0
+28	1368	7413507035942089	CMakeFiles/firstprogam.dir/Cat.cpp.obj	bdc28ca2c45cf7a5
+6	1441	7413507036567206	CMakeFiles/firstprogam.dir/Animal.cpp.obj	88f07523bc48068e
+1442	1701	7413507039223314	firstprogam.exe	e3133323a2667f36
